@@ -14,7 +14,7 @@ A deviation from Newtonian gravity of ∆g/g ≈ 8.3 × 10⁻⁹ at 72 µm.
 Key Contributions
 Dynamic Term: Ω_α(z) = α sech²[β ln(1 + z) - β ln(1 + γ)], with fitted parameters α = 0.412 ± 0.003, γ = 11.92 ± 0.08, β ≈ 1 (rescaled for visualization; physical β = k/H₀ ~ 10⁵⁴).
 ![Comparison with DESI DR2 Data](figures/comparison.png) *Comparison of H(z) for ϕ Protocol vs. ΛCDM, superimposed on BAO DESI DR2 data (r_d=147 Mpc). The ϕ term improves the fit in high-z.*
-!Diference moves(figures/visual.png) *Figure to discrbed the diference*
+![Diference moves](figures/visual.png) *Figure to discrbed the diference*
 Unified Framework: Derives from RS-II Weyl curvature projection, linking cosmology to particle physics.
 Empirical Fit: Improves χ²/dof from >>1 (ΛCDM) to 1.03 ± 0.04 using JWST + BAO + CMB data.
 For the full paper, see TPU.pdf.
